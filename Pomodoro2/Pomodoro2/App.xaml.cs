@@ -11,7 +11,7 @@ namespace Pomodoro2
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new RootPage();
         }
 
         protected override void OnStart()
